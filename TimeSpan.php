@@ -1,6 +1,4 @@
 <?php
-namespace KC;
-
 // Router
 Class TimeSpan {
     public static function get($S = 1) {
